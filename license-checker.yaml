@@ -11,4 +11,3 @@ jobs:
         uses: apache/skywalking-eyes@main
         with:
           log: info
-          config: .github/.licenserc.yaml
